@@ -70,6 +70,8 @@ print(f"Variance is : {var}")
 ```
 
 # OUTPUT
+![image](https://github.com/user-attachments/assets/9d934bb0-2431-45a2-819d-c5679e34d987)
+
 
  
 # RESULT
