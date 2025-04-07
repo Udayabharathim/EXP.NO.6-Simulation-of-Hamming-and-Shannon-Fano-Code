@@ -1,4 +1,4 @@
-# EXP.NO.6-Simulation-of-Hamming-and-Shannon-Fano-Code
+# EXP.NO.6-Simulation-of-Huffman-and-Shannon-Fano-Code
 
 
 ## AIM
